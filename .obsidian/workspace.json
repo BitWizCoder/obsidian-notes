@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "a2f34a0a3e64c85c",
+    "type": "split",
+    "children": [
+      {
+        "id": "84a793fc215c5152",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a719619cbb7facdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mixed Notes/Learning Anxiety.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning Anxiety"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ab072a64efd1cca",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7ad28a8df508751",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c7699e617b2b800",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cb1152a1188bb990",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dbb24d1560f0f086",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cedf60fd1be21acf",
+    "type": "split",
+    "children": [
+      {
+        "id": "c96d79df5de91888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4481968d0f9be9ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "13d604dc741f8996",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "295070b342944f66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1d30d236f59bc710",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8c7699e617b2b800",
+  "lastOpenFiles": [
+    "Programming Notes/PH - Level 1/README.md",
+    "Mixed Notes/Learning Anxiety.md",
+    "Mixed Notes",
+    "Programming Notes/Reactive Accelerator/Module 3 - React State Management Deep Dive/3.12 Extracting State Logic into a Reducer.md",
+    "Programming Notes/Reactive Accelerator/README.md",
+    "Programming Notes/TOP - Foundations/README.md",
+    "Programming Notes/Udemy - HTML & CSS Course/Study Plan.md",
+    "Programming Notes/README.md"
+  ]
+}
