@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4bf9d47b27d3bf8e",
+        "id": "61e6f9c0ce2c71bf",
         "type": "tabs",
         "children": [
           {
-            "id": "5111ac6ee9083835",
+            "id": "1f88ceec0b6539c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Articles/Front-End Workspace – Setup Your Windows for Development/important softwares.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "important softwares"
             }
           }
         ]
@@ -161,11 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5111ac6ee9083835",
+  "active": "1f88ceec0b6539c1",
   "lastOpenFiles": [
+    "Articles/Front-End Workspace – Setup Your Windows for Development/important softwares.md",
+    "Articles/Front-End Workspace – Setup Your Windows for Development/winget.md",
+    "Articles/Front-End Workspace – Setup Your Windows for Development/Wallpapers.md",
+    "Articles/Front-End Workspace – Setup Your Windows for Development/Setup VS Code.md",
+    "Articles/Front-End Workspace – Setup Your Windows for Development/Obsidian for taking and organizing notes.md",
+    "Articles/Front-End Workspace – Setup Your Windows for Development/Node, NPM and Package Managers.md",
+    "Articles/Front-End Workspace – Setup Your Windows for Development/Install and setup cmdr with git aliases.md",
+    "Articles/Front-End Workspace – Setup Your Windows for Development/Best Browsers.md",
+    "Articles/Front-End Workspace – Setup Your Windows for Development/Basics of git and Github.md",
+    "Articles/Front-End Workspace – Setup Your Windows for Development",
+    "Mixed Notes/Learning Obstacles.md",
     "Mixed Notes/JS & React Study Plan.md",
-    "Articles/Install and setup cmdr with git aliases.md",
-    "Articles/Basics of git and Github.md",
     "Mixed Notes/Learning Anxiety.md",
     "Articles",
     "Programming Notes/README.md",
