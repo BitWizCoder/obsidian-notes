@@ -11,10 +11,14 @@
             "id": "540dca960cab00de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mixed Notes/Design Notes/Sharing Designs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sharing Designs"
             }
           }
         ]
@@ -163,9 +167,12 @@
   },
   "active": "540dca960cab00de",
   "lastOpenFiles": [
-    "Mixed Notes/Design Notes/Creating Styles and Components.md",
-    "Mixed Notes/Design Notes/Design System.md",
+    "Mixed Notes/Design Notes/Illustrator and graphic design.md",
+    "Mixed Notes/Design Notes/Sharing Designs.md",
+    "Mixed Notes/Design Notes/Design Process.md",
     "Mixed Notes/Design Notes/Style and Component File.md",
+    "Mixed Notes/Design Notes/Design System.md",
+    "Mixed Notes/Design Notes/Creating Styles and Components.md",
     "Mixed Notes/Design Notes",
     "Mixed Notes/Tutorial Hell.md",
     "Articles/Front-End Workspace – Setup Your Windows for Development/important softwares.md",
