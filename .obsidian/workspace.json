@@ -11,10 +11,14 @@
             "id": "70d6f281bd4f77d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mixed Notes/Study Subjects.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Study Subjects"
             }
           }
         ]
@@ -161,9 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c7699e617b2b800",
+  "active": "70d6f281bd4f77d2",
   "lastOpenFiles": [
     "Mixed Notes/CS - Study.md",
+    "Mixed Notes/Study Subjects.md",
     "Productivity/No skill is wasted.md",
     "Mixed Notes/Design Notes/Illustrator and graphic design.md",
     "Productivity/Scattered Focus.md",
@@ -197,7 +202,6 @@
     "obsidian/app.json",
     "obsidian",
     "Programming Notes/PH - Level 1/README.md",
-    "Mixed Notes",
-    "Programming Notes/Reactive Accelerator/Module 3 - React State Management Deep Dive/3.12 Extracting State Logic into a Reducer.md"
+    "Mixed Notes"
   ]
 }
