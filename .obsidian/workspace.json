@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3beed063beac42c7",
+        "id": "a9faf1fbfd111792",
         "type": "tabs",
         "children": [
           {
-            "id": "573a13f4d73554b0",
+            "id": "fb91b0cb48ebfbe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming Notes/Various/Async Project Ideas.md",
+                "file": "Behavioral Science/Books.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Async Project Ideas"
+              "title": "Books"
             }
           }
         ]
@@ -165,9 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "573a13f4d73554b0",
+  "active": "fb91b0cb48ebfbe1",
   "lastOpenFiles": [
+    "Behavioral Science/Dopamine.md",
+    "Behavioral Science/Books.md",
     "Programming Notes/Various/Async Project Ideas.md",
+    "Behavioral Science",
+    "Programming Notes/README.md",
     "Programming Notes/Various",
     "Mixed Notes/Study Subjects.md",
     "Mixed Notes/CS - Study.md",
@@ -194,14 +198,10 @@
     "Articles/Front-End Workspace – Setup Your Windows for Development",
     "Mixed Notes/Learning Obstacles.md",
     "Mixed Notes/JS & React Study Plan.md",
-    "Mixed Notes/Learning Anxiety.md",
     "Articles",
-    "Programming Notes/README.md",
-    "Programming Notes/Udemy - HTML & CSS Course/Study Plan.md",
     "obsidian/workspace.json",
     "obsidian/core-plugins.json",
     "obsidian/appearance.json",
-    "obsidian/app.json",
-    "obsidian"
+    "obsidian/app.json"
   ]
 }
