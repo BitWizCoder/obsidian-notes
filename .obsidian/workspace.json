@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a9faf1fbfd111792",
+        "id": "515154001b2022ae",
         "type": "tabs",
         "children": [
           {
-            "id": "fb91b0cb48ebfbe1",
+            "id": "78d1073766ecd3c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Behavioral Science/Books.md",
+                "file": "Programming Notes/Various/PHP - Project Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Books"
+              "title": "PHP - Project Ideas"
             }
           }
         ]
@@ -165,8 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb91b0cb48ebfbe1",
+  "active": "78d1073766ecd3c5",
   "lastOpenFiles": [
+    "Behavioral Science/list.md",
+    "Programming Notes/Various/PHP - Project Ideas.md",
     "Behavioral Science/Dopamine.md",
     "Behavioral Science/Books.md",
     "Programming Notes/Various/Async Project Ideas.md",
@@ -196,8 +198,6 @@
     "Articles/Front-End Workspace – Setup Your Windows for Development/Best Browsers.md",
     "Articles/Front-End Workspace – Setup Your Windows for Development/Basics of git and Github.md",
     "Articles/Front-End Workspace – Setup Your Windows for Development",
-    "Mixed Notes/Learning Obstacles.md",
-    "Mixed Notes/JS & React Study Plan.md",
     "Articles",
     "obsidian/workspace.json",
     "obsidian/core-plugins.json",
