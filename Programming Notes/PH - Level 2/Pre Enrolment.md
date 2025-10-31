@@ -63,3 +63,4 @@ Special Session 2: Database Design Techniques
 ![🧾](https://static.xx.fbcdn.net/images/emoji.php/v9/td0/1/16/1f9fe.png)Slide Link: [https://drive.google.com/.../1OHvhb2Xz14YNw4LyIe6.../view...](https://drive.google.com/file/d/1OHvhb2Xz14YNw4LyIe6EqXF6nQe3YSrZ/view?usp=sharing&fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExTmkyS2QxZk5HZUpjaDBndQEesyIGMqTcyrGoFP_Damn5FbT--p8ZQKbblzp_rcVkW3bKdJ3zUmRluXJ9cV8_aem_7Jzg1AVTNLmmKikX9vTqmg)
 
 ![🌡](https://static.xx.fbcdn.net/images/emoji.php/v9/tca/1/16/1f321.png)Case Study Link: [https://drive.google.com/.../1XyUoGd4ycJDqVYgwGYCTqO.../view](https://drive.google.com/file/d/1XyUoGd4ycJDqVYgwGYCTqOTH47eaeVG6/view?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExTmkyS2QxZk5HZUpjaDBndQEezsXUfUfKrjE_gPheLBiyk8gNoLraNtqBBxuY6CyqjXZ9qSTMEdWwzhxmsI0_aem_YzjTj2zSIEiQH48oGxg-yg)
+
